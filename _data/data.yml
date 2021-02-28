@@ -50,14 +50,22 @@ education:
     - degree: Ηλεκτρονικός Μηχανικός
       university: Πανεπιστήμιο Θεσσαλονίκης (πρώην ΤΕΙΘ)
       time: 1989 - 1994
-    experiences:
+
+experiences:
     - role: ATSEP
       time: 2001 - Present
       company: Υπηρεσία Πολιτικής Αεροπορίας (Υ.Π.Α.)
-      
+      details: Τμήμα Τηλεπικοινωνιών
+    
     - role: Υποστήριξη δικτύων και λογισμικού Singular
+      time: 1999 - 2001
+      company: F1
+      details: Τότε που δεν υπήρχε το google
+    
+    - role: Επισκευή μητρικών καρτών Video Games
       time: 1997 - 1999
       company: DION GAMES
+      details: Real me do it με το κολλητήρι!!!
       
 projects:
 
