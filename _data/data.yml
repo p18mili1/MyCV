@@ -43,7 +43,7 @@ sidebar:
         link:
 
 
-εκπαίδευση:
+education:
     - degree: MSc in Digital Systems Engineering
       university: Heriot Watt University
       time: 1995 - 1996
@@ -54,7 +54,7 @@ sidebar:
 experiences:
     - role: ATSEP
       time: 2001 - Present
-      company: <a href="http://www.hcaa.gr">Υπηρεσία Πολιτικής Αεροπορίας (Υ.Π.Α.)</a>
+      company: Υπηρεσία Πολιτικής Αεροπορίας (Υ.Π.Α.)
       details: Τμήμα Τηλεπικοινωνιών
     
     - role: Υποστήριξη δικτύων και λογισμικού Singular
