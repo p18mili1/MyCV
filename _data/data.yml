@@ -16,12 +16,7 @@ sidebar:
     phone: 26610 33333
     
     github: p18mili1
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: 
-    codewars:
-    
+        
     languages:
       - idiom: Greek
         level: Γηγενής
@@ -41,7 +36,6 @@ sidebar:
 
       - item: Cooking
         link:
-
 
 education:
     - degree: MSc in Digital Systems Engineering
