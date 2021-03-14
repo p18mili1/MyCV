@@ -59,8 +59,18 @@ experiences:
     - role: Επισκευή μητρικών καρτών Video Games
       time: 1997 - 1999
       company: DION GAMES
-      details: Real men do it με το κολλητήρι!!!
+      details: Real me do it με το κολλητήρι!!!
       
+skills:
+    title: Skills
+
+    toolset:
+      - name: 
+        level: 
+
+      - name: 
+        level: 
+        
 projects:
 
 publications:
