@@ -39,7 +39,7 @@ p {
 .sidebar-wrapper {
     background: $theme-color;
     position: absolute;
-    left: 0;
+    right: 0;
     width: 280px;
     height: 240%;
     min-height: 800px;
@@ -171,8 +171,7 @@ p {
     }
 
     .experiences-section, .educations-section {
-             padding-left: 340px;
-	    .item {
+            .item {
             margin-bottom: 30px;
         }
     }
