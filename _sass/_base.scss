@@ -167,13 +167,13 @@ p {
         margin-bottom: 20px;
     }
     .section {
-	    position: absolute;
-	    right: 0;
-        margin-bottom: 60px;
+	margin-bottom: 60px;
     }
 
     .experiences-section, .educations-section {
-        .item {
+            position: absolute;
+	    right: 0;
+	    .item {
             margin-bottom: 30px;
         }
     }
