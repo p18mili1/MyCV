@@ -4,46 +4,44 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Χρήστος Μήλιος
-    tagline: Pro Developer
+    tagline: Wannabe Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: p18mili1@ionio.gr
-    phone: 26610 33333
+    phone: 
     
     github: p18mili1
         
     languages:
-      - idiom: Greek
-        level: Γηγενής
+      - idiom: Ελληνικά
+        level: Μητρική
 
-      - idiom: English
-        level: Professional
+      - idiom: Αγγλικά
+        level: Professiency
 
-      - idiom: French
-        level: Independant
+      - idiom: Γαλλικά
+        level: DELF B2
 
     interests:
       - item: Cinema
-        link:
-
       - item: Technology
-        link:
-
       - item: Cooking
-        link:
 
 education:
     - degree: MSc in Digital Systems Engineering
       university: Heriot Watt University
       time: 1995 - 1996
-    - degree: Ηλεκτρονικός Μηχανικός
-      university: Αλεξάνδρειο ΤΕΙΘ
+    - degree: Ηλεκτρονικός Μηχανικός ΤΕ
+      university: Διεθνές Πανεπιστήμιο Ελλάδος (πρώην Αλεξάνδρειο ΤΕΙΘ-Τμ. Ηλεκτρονικής)
       time: 1989 - 1994
+    - degree: Πληροφορική
+      university: Ιόνιο Πανεπιστήμιο
+      time: 2018 - 
     
 experiences:
     - role: ATSEP
@@ -59,17 +57,20 @@ experiences:
     - role: Επισκευή μητρικών καρτών Video Games
       time: 1997 - 1999
       company: DION GAMES
-      details: Real me do it με το κολλητήρι!!!
+      details: Real men do it με το κολλητήρι!!!
       
 skills:
     title: Skills
 
     toolset:
-      - name: 
-        level: 
+      - name: Windows
+        level: 90%
 
-      - name: 
-        level: 
+      - name: Damaged hard drive data recovery
+        level: 95%
+
+      - name: PHP programming
+        level: 50%
         
 projects:
 
