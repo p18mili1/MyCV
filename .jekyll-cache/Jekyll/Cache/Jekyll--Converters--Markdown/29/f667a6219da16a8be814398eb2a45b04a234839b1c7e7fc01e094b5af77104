@@ -1,0 +1,197 @@
+I"�
+<section class="section educations-section">
+
+    <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+      Education
+    </h2>
+
+    
+    <div class="item">
+
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="degree">MSc in Digital Systems Engineering</h3>
+          <div class="time">1995 - 1996</div>
+        </div><!--//upper-row-->
+
+        <div class="university">Heriot Watt University</div>
+      </div><!--//meta-->
+
+      
+
+    </div><!--//item-->
+    
+    <div class="item">
+
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="degree">Ηλεκτρονικός Μηχανικός ΤΕ</h3>
+          <div class="time">1989 - 1994</div>
+        </div><!--//upper-row-->
+
+        <div class="university">Διεθνές Πανεπιστήμιο Ελλάδος (πρώην ΤΕΙΘ - Τμ. Ηλεκτρονικής)</div>
+      </div><!--//meta-->
+
+      
+
+    </div><!--//item-->
+    
+    <div class="item">
+
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="degree">Πληροφορική</h3>
+          <div class="time">2018 -</div>
+        </div><!--//upper-row-->
+
+        <div class="university">Ιόνιο Πανεπιστήμιο</div>
+      </div><!--//meta-->
+
+      
+
+    </div><!--//item-->
+    
+
+  </section>
+<!--//section-->
+
+<section class="section experiences-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+    Experiences
+  </h2>
+
+  
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">ATSEP</h3>
+        <div class="time">2001 - Present</div>
+      </div><!--//upper-row-->
+
+      <div class="company">Υπηρεσία Πολιτικής Αεροπορίας (Υ.Π.Α.)</div>
+
+    </div><!--//meta-->
+
+    
+    <div class="details">
+      <p>Τμήμα Τηλεπικοινωνιών</p>
+
+    </div><!--//details-->
+    
+
+  </div><!--//item-->
+  
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">Υποστήριξη δικτύων και λογισμικού Singular</h3>
+        <div class="time">1999 - 2001</div>
+      </div><!--//upper-row-->
+
+      <div class="company">F1-services</div>
+
+    </div><!--//meta-->
+
+    
+    <div class="details">
+      <p>Τότε που δεν υπήρχε το google</p>
+
+    </div><!--//details-->
+    
+
+  </div><!--//item-->
+  
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">Επισκευή μητρικών καρτών Video Games</h3>
+        <div class="time">1997 - 1999</div>
+      </div><!--//upper-row-->
+
+      <div class="company">DION GAMES</div>
+
+    </div><!--//meta-->
+
+    
+    <div class="details">
+      <p>Real men do it με το κολλητήρι!!!</p>
+
+    </div><!--//details-->
+    
+
+  </div><!--//item-->
+  
+
+</section>
+<!--//section-->
+
+<section class="skills-section section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    Skills
+  </h2>
+
+  <div class="skillset">
+
+    
+    <div class="item">
+
+      <h3 class="level-title">Windows</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="90%">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    
+    <div class="item">
+
+      <h3 class="level-title">Damaged hard drive data recovery</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="95%">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    
+    <div class="item">
+
+      <h3 class="level-title">PHP programming</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="50%">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    
+
+  </div>
+
+</section>
+<!--//skills-section-->
+
+:ET
