@@ -37,7 +37,7 @@ education:
       university: Heriot Watt University
       time: 1995 - 1996
     - degree: Ηλεκτρονικός Μηχανικός ΤΕ
-      university: Διεθνές Πανεπιστήμιο Ελλάδος (πρώην Αλεξάνδρειο ΤΕΙΘ-Τμ. Ηλεκτρονικής)
+      university: Διεθνές Πανεπιστήμιο Ελλάδος (πρώην ΤΕΙΘ - Τμ. Ηλεκτρονικής)
       time: 1989 - 1994
     - degree: Πληροφορική
       university: Ιόνιο Πανεπιστήμιο
@@ -51,7 +51,7 @@ experiences:
     
     - role: Υποστήριξη δικτύων και λογισμικού Singular
       time: 1999 - 2001
-      company: F1
+      company: F1-services
       details: Τότε που δεν υπήρχε το google
     
     - role: Επισκευή μητρικών καρτών Video Games
