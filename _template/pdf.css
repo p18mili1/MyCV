@@ -1,0 +1,47 @@
+@page {
+  size: A4;
+/*  margin-left: 0.5cm; /* Set margin on each page */
+  /*margin-right: 1.0cm;
+/*  padding: 1cm; /* Set padding on each page */
+}
+
+/*
+@media print
+   {
+    @page {
+        size: A4;
+    }
+    body {
+       font-size: 12pt;
+    }
+
+    img.avatar {
+        filter: grayscale(1);
+        -webkit-filter: greyscale(1);
+    }
+   .main-wrapper .time {
+       float: right;
+        color: black !important;
+        -webkit-print-color-adjust: exact; 
+   }
+    .sidebar-wrapper {
+        position: static;
+        float: right;
+        width: 40%;
+        -webkit-print-color-adjust: exact; 
+    }
+
+    .remove-container.container-block {
+       display: none;
+    }
+
+    footer {
+       display: none;
+    }
+
+    .skillset .level-bar-inner {
+       background-color: black !important;
+       -webkit-print-color-adjust: exact; 
+    }
+*/
+
