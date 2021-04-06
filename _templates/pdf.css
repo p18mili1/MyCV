@@ -1,0 +1,33 @@
+@page {
+  margin: 0cm; /* Set margin on each page */
+  padding: 1cm; /* Set padding on each page */
+}
+
+.main-wrapper{
+	display: none;
+    float: right;
+    font-size: 11pt;
+     color: green !important;
+     -webkit-print-color-adjust: exact; 
+}
+
+
+.main-wrapper .time {
+    float: right;
+    font-size: 11pt;
+     color: red !important;
+     -webkit-print-color-adjust: exact; 
+}
+
+.sidebar-wrapper {
+    /*display: none;*/
+    position: static;
+    float: right;
+    width: 40%;
+    -webkit-print-color-adjust: exact; 
+}
+
+
+.container-block {
+        padding: 10px;
+    }
