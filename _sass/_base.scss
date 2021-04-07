@@ -30,7 +30,7 @@ p {
 
 .wrapper {
     background:$theme-color;
-    max-width: 850px;
+    max-width: 950px;
     margin: 0 auto;
     position: relative;
     @include box-shadow(0px 2px 4px rgba(0,0,0,0.1));
@@ -43,16 +43,16 @@ p {
     width: 230px;
     height: 100%;
     min-height: 400px;
-    color: #fff;
+    color: pink;
     a {
-        color: #fff;
+        color: #40c0ff;
     }
     .profile-container {
         padding: 30px;
         //background: darken($theme-color, 10%);
         background: rgba(0, 0, 0, 0.2);
         text-align: center;
-        color: #fff;
+        color: #add8e6;
     }
     .name {
         font-size: 32px;
@@ -75,7 +75,7 @@ p {
         //used for profile image
         max-width: 100px;
         margin-bottom: 15px;
-        border: 0px solid #fff;
+        border: 0px solid #add8e6;
         border-radius: 100%;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
@@ -128,7 +128,7 @@ p {
     }
     .languages-container {
         .lang-desc {
-            color: rgba(256, 256, 256, 0.6);
+            color: rgba(173, 216, 230, 0.8);
         }
     }
 
@@ -150,6 +150,17 @@ p {
                 margin-bottom: 0;
             }
         }
+    }
+
+    .links-list{
+            margin-bottom: 0;
+        li {
+            margin-bottom: 10px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+
     }
 }
 
@@ -181,6 +192,12 @@ p {
         overflow: hidden;
         margin-bottom: 2px;
     }
+
+    .lower-row {
+        position: relative;
+        overflow: hidden;
+        margin-top: 2px;
+    }
     .job-title, .degree {
         color: $text-color;
         font-size: 16px;
@@ -190,13 +207,19 @@ p {
     }
     .time {
         position: absolute;
-        right: 0;
+        right: 1cm;
         top: 0;
         color: #778899;
     }
     .company, .university {
-        margin-bottom: 10px;
+        margin-top: 5px;
+        margin-bottom: 5px;
         color: #CD5C5C;
+    }
+
+    .city {
+        margin-top: 5px;
+        color: #338899;
     }
 
     .project-title {

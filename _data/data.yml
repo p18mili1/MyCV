@@ -8,7 +8,7 @@ sidebar:
     links: True # set to False or comment line if you want to remove the "Links" section in the sidebar
     
     # Profile information
-    name: Chris Milios
+    name: Χρήστος Μήλιος
     tagline: Wannabe Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -19,13 +19,14 @@ sidebar:
     github: p18mili1
         
     languages:
-      - idiom: Greek
-        level: Native
 
-      - idiom: English
-        level: Professiency
+      - idiom: Ελληνικά
+        level: Μητρική
 
-      - idiom: French
+      - idiom: Αγγλικά
+        level: Profeciency
+
+      - idiom: Γαλλικά
         level: DELF B2
 
     interests:
@@ -37,28 +38,31 @@ education:
     - degree: MSc in Digital Systems Engineering
       university: Heriot Watt University
       time: 1995 - 1996
-    - degree: Electronics Engineer
-      university: TEI Thessalonikis
+      city: Edinbourgh, Scottland, UK
+    - degree: Ηλεκτρονικός Μηχανικός ΤΕ
+      university: Αλεξάνδρειο TEI
       time: 1989 - 1994
-    - degree: Informatics
-      university: Ionian University
-      time: 2018 - 
+      city: Θεσσαλονίκη
+    - degree: Πληροφορική
+      university: Ιόνιο Πανεπιστήμιο
+      time: 2018 - ...μέχρι σήμερα
+      city: Κέρκυρα
     
 experiences:
     - role: ATSEP
-      time: 2001 - Present
-      company: Civil Aviation Authority
-      details: Telecom Dpt
+      time: 2001 - ...μέχρι σήμερα
+      company: Υπηρεσία Πολιτής Αεροπορίας
+      details: Τηλεπικοινωνίες
     
-    - role: Singular networks support 
+    - role: Υποστηρίξη δικτυών μηχανογράφησης Singular 
       time: 1999 - 2001
       company: F1-services
-      details: When Navigator was ruling the net
+      details: Όταν δεν υπήρχε το google...
     
-    - role: NAMCO and SEGA mainboard repairs
+    - role: Επισκευή μητρικών video games Namco and SEGA 
       time: 1997 - 1999
       company: DION GAMES
-      details: Soldering iron my best friend!!!
+      details: Real men do it με το κολλητήρι!!!
       
 skills:
     title: Skills
