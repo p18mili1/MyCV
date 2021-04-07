@@ -8,7 +8,7 @@ sidebar:
     links: True # set to False or comment line if you want to remove the "Links" section in the sidebar
     
     # Profile information
-    name: Χρήστος Μήλιος
+    name: Chris Milios
     tagline: Wannabe Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -19,13 +19,13 @@ sidebar:
     github: p18mili1
         
     languages:
-      - idiom: Ελληνικά
-        level: Μητρική
+      - idiom: Greek
+        level: Native
 
-      - idiom: Αγγλικά
+      - idiom: English
         level: Professiency
 
-      - idiom: Γαλλικά
+      - idiom: French
         level: DELF B2
 
     interests:
@@ -37,28 +37,28 @@ education:
     - degree: MSc in Digital Systems Engineering
       university: Heriot Watt University
       time: 1995 - 1996
-    - degree: Ηλεκτρονικός Μηχανικός ΤΕ
-      university: ΤΕΙΘ - Τμ. Ηλεκτρονικής
+    - degree: Electronics Engineer
+      university: TEI Thessalonikis
       time: 1989 - 1994
-    - degree: Πληροφορική
-      university: Ιόνιο Πανεπιστήμιο
+    - degree: Informatics
+      university: Ionian University
       time: 2018 - 
     
 experiences:
     - role: ATSEP
       time: 2001 - Present
-      company: Υπηρεσία Πολιτικής Αεροπορίας (Υ.Π.Α.)
-      details: Τμήμα Τηλεπικοινωνιών
+      company: Civil Aviation Authority
+      details: Telecom Dpt
     
-    - role: Υποστήριξη δικτύων και λογισμικού Singular
+    - role: Singular networks support 
       time: 1999 - 2001
       company: F1-services
-      details: Τότε που δεν υπήρχε το google
+      details: When Navigator was ruling the net
     
-    - role: Επισκευή μητρικών καρτών Video Games
+    - role: NAMCO and SEGA mainboard repairs
       time: 1997 - 1999
       company: DION GAMES
-      details: Real men do it με το κολλητήρι!!!!
+      details: Soldering iron my best friend!!!
       
 skills:
     title: Skills
@@ -73,9 +73,4 @@ skills:
       - name: PHP programming
         level: 50%
         
-projects:
-
-publications:
-
-
 footer:
